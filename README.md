@@ -10,7 +10,7 @@ https://chromedriver.chromium.org/downloads
 5) In the file parser.py in the line12, change the path to your chromedriver basing on your situation.
 6) And finally in the file parser.py in the line13, change the URL basing on your needs.
 For example: proceed to this link https://jobs.dou.ua/companies/ and type in the search field any city you want to 'parse emails' and press Enter button. 
-Than just copy/paste the link from browser to line13.
+Then just copy/paste the link from browser to line13.
 7) Now you can execute the parser.py file by running the command 'python3 parser.py'
 
 
