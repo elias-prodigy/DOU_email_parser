@@ -1,0 +1,7 @@
+/venv/
+.idea
+__pycache__/
+/venvmp/
+uploads/
+email.csv
+chromedriver
