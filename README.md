@@ -1,4 +1,4 @@
-# DOU_email_parser
+# DOU email parser
 Small script which parses emails of all agencies registered in Zaporozhye on DOU.ua website.
 
 You can simply adjust it for your city by following these steps:
