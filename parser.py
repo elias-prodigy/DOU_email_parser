@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-browser = webdriver.Chrome('/home/elias/PycharmProjects/email_scraper/chromedriver')
+browser = webdriver.Chrome('/home/elias/PycharmProjects/DOU_email_parser/chromedriver')
 url = 'https://jobs.dou.ua/companies/?name=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D1%8C%D0%B5'
 browser.get(url)
 element = browser.find_element_by_link_text("Больше компаний")
